@@ -1,7 +1,7 @@
 <div align="center">
 
-# Samprit Ghosh
-**Senior Full Stack Engineer & System Architect**
+# Meghnila Das
+**AWS Cloud Developer & Infrastructure Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=Globe&logoColor=white)](https://portfolio-update-eta-puce.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samprit-ghosh-5a8a1119b/)
@@ -13,13 +13,13 @@
 
 ### 🔹 Executive Summary
 
-I am a Senior Full Stack Engineer specializing in scalable web architectures, predictive modeling, and AI-driven platforms. My focus is on transforming complex business requirements into high-performance, maintainable software systems. 
+I am an AWS Cloud Developer specializing in designing, deploying, and scaling secure cloud-native architectures. My focus is on leveraging serverless computing, infrastructure automation, and modern containerization to build resilient, high-performance distributed systems. 
 
-🎯 **Core Focus:** Distributed systems, cloud-native architectures, and integrating LLMs into production environments.
+🎯 **Core Focus:** AWS cloud infrastructure, serverless application design, CI/CD automation, and cloud security.
 
-🚀 **Current Endeavors:** Architecting **Planora**, an AI-powered travel suggestion engine utilizing large language models, alongside developing custom digital platforms like the **Studio Musu Photography** application.
+🚀 **Current Endeavors:** Architecting resilient cloud workloads and automated deployment pipelines, alongside optimizing serverless backend engines utilizing AWS Lambda, DynamoDB, and API Gateway.
 
-💡 **Technical Philosophy:** I prioritize clean code, strict typed languages, responsive design, and robust API infrastructure over temporary trends.
+💡 **Technical Philosophy:** I prioritize infrastructure-as-code, high availability, security-first cloud configurations, and cost-optimized system design over temporary trends.
 
 ---
 
@@ -28,30 +28,30 @@ I am a Senior Full Stack Engineer specializing in scalable web architectures, pr
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <b>🧠 Core Languages</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,html,css" alt="" /></a>
+      <b>☁️ Cloud & Core AWS</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" alt="" /></a>
     </td>
     <td align="center" width="33%">
-      <b>🚀 Frameworks & Libraries</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,react,express,tailwind,tensorflow" alt="" /></a>
+      <b>🛠️ Infrastructure as Code & CI/CD</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=terraform,githubactions,git,bash" alt="" /></a>
     </td>
     <td align="center" width="33%">
-      <b>⚙️ Infrastructure & Cloud</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,nginx,graphql" alt="" /></a>
+      <b>🧠 Languages & Scripting</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts" alt="" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <b>📝 Databases & Caching</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="" /></a>
+      <b>📝 Databases & Storage</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dynamodb,postgres,redis,mongodb" alt="" /></a>
     </td>
     <td align="center" width="33%">
-      <b>🛠️ CI/CD & Tooling</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,githubactions,jest,postman" alt="" /></a>
+      <b>⚙️ Backend & APIs</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,nodejs,graphql" alt="" /></a>
     </td>
     <td align="center" width="33%">
-      <b>📈 System Analytics</b><br><br>
-      <i>Grafana / Prometheus / ELK</i>
+      <b>📈 Monitoring & Observability</b><br><br>
+      <i>CloudWatch / Grafana / Prometheus / ELK</i>
     </td>
   </tr>
 </table>
